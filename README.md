@@ -64,12 +64,26 @@ cd Clinic360
 
 ### 4️⃣ Configure the Database
 
-* Using SQL Server: Update the connection string in `App.config`.
+
+* Use the provided `clinik.dacpac` file to deploy the database:
+
+  1. Open **SQL Server Management Studio (SSMS)**.
+  2. Right-click on **Databases** → choose **Deploy Data-tier Application**.
+  3. Browse and select the `clinik.dacpac` file.
+  4. Complete the wizard to deploy it as a new database.
+  5. Update the connection string in `App.config` with your SQL Server instance and database name.
 
 ### 5️⃣ Run the App
 
 * Press `F5` to build and run the project.
 
+---
+## 🗃️ Database
+
+A prebuilt database is included as a `.dacpac` file:
+
+* 📁 `clinik.dacpac` – SQL Server data-tier application file in DATABASE Folder
+* Use this file to deploy the database quickly without creating tables manually.
 ---
 
 ## 🔐 Auth & Roles
@@ -79,10 +93,3 @@ cd Clinic360
 * Simple role-based UI control for functionality access
 
 ---
-
-
-## 📝 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
-
