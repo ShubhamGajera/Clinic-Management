@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|c:\\users\\shubh\\desktop\\.net\\clinic_management\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\receptionists_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:receptionists_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_patients_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:laboratory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\doctor_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:doctor_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\receptionists_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4DC3959-F634-4EB5-9C20-2D0524289043}|Clinic_Management.csproj|solutionrelative:receptionists_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login_page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Login_page.cs",
+              "RelativeDocumentMoniker": "Login_page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Login_page.cs [Design]",
+              "RelativeToolTip": "Login_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T03:42:42.935Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login_page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Login_page.cs",
+              "RelativeDocumentMoniker": "Login_page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Login_page.cs",
+              "RelativeToolTip": "Login_page.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:41:17.047Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home_page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Home_page.cs",
+              "RelativeDocumentMoniker": "Home_page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Home_page.cs [Design]",
+              "RelativeToolTip": "Home_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:00:32.855Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home_page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Home_page.cs",
+              "RelativeDocumentMoniker": "Home_page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Home_page.cs",
+              "RelativeToolTip": "Home_page.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:38:10.31Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patients_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Patients_Page.cs",
+              "RelativeDocumentMoniker": "Patients_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Patients_Page.cs [Design]",
+              "RelativeToolTip": "Patients_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:01:00.782Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patients_Page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Patients_Page.cs",
+              "RelativeDocumentMoniker": "Patients_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Patients_Page.cs",
+              "RelativeToolTip": "Patients_Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:02:41.744Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Doctor_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Page.cs [Design]",
+              "RelativeToolTip": "Doctor_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:40:21.749Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor_Page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Page.cs",
+              "RelativeToolTip": "Doctor_Page.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAmwLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:55:32.886Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Laboratory_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Laboratory_Page.cs",
+              "RelativeDocumentMoniker": "Laboratory_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Laboratory_Page.cs [Design]",
+              "RelativeToolTip": "Laboratory_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:28:09.662Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Laboratory_Page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Laboratory_Page.cs",
+              "RelativeDocumentMoniker": "Laboratory_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Laboratory_Page.cs",
+              "RelativeToolTip": "Laboratory_Page.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwFQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:28:52.331Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Receptionists_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Receptionists_Page.cs",
+              "RelativeDocumentMoniker": "Receptionists_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Receptionists_Page.cs [Design]",
+              "RelativeToolTip": "Receptionists_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:22:23.421Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Receptionists_Page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Receptionists_Page.cs",
+              "RelativeDocumentMoniker": "Receptionists_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Receptionists_Page.cs",
+              "RelativeToolTip": "Receptionists_Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T02:56:19.269Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor_Home_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Home_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Home_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Home_Page.cs [Design]",
+              "RelativeToolTip": "Doctor_Home_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:44:00.127Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor_Home_Page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Home_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Home_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Home_Page.cs",
+              "RelativeToolTip": "Doctor_Home_Page.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:01:41.098Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctor_Patients_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Patients_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Patients_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Patients_Page.cs [Design]",
+              "RelativeToolTip": "Doctor_Patients_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:02:05.11Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor_Patients_Page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Patients_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Patients_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Patients_Page.cs",
+              "RelativeToolTip": "Doctor_Patients_Page.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv5UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:02:30.545Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor_Laboratory_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Laboratory_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Laboratory_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Laboratory_Page.cs [Design]",
+              "RelativeToolTip": "Doctor_Laboratory_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:05:16.417Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor_Laboratory_Page.cs",
+              "DocumentMoniker": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Laboratory_Page.cs",
+              "RelativeDocumentMoniker": "Doctor_Laboratory_Page.cs",
+              "ToolTip": "C:\\Users\\shubh\\Desktop\\.NET\\Clinic_Management\\Doctor_Laboratory_Page.cs",
+              "RelativeToolTip": "Doctor_Laboratory_Page.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:05:21.269Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
