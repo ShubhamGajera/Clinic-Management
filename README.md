@@ -94,7 +94,6 @@ A prebuilt database is included as a `.dacpac` file:
 
 ---
 ## 🙌 Contribution & Feedback
-
 We welcome your ideas and improvements!
 
 * 💡 **Found a bug?** Feel free to open an issue.
