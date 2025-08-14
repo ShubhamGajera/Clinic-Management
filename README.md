@@ -1,5 +1,5 @@
 
-# 🏥 Clinic360  –  Smart Clinic Management System (Windows Forms)
+# 🏥 Clinic360 – Smart Clinic Management System (Windows Forms)
 
 ![Made with C#](https://img.shields.io/badge/Made%20with-C%23-blue?logo=csharp)
 ![Desktop App](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
