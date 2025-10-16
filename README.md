@@ -93,11 +93,11 @@ A prebuilt database is included as a `.dacpac` file:
 * Simple role-based UI control for functionality access
 
 ---
-## 🙌 Contribution & Feedback
+## Contribution & Feedback
 We welcome your ideas and improvements!
 
-* 💡 **Found a bug?** Feel free to open an issue.
-* 🌟 **Want to contribute?** Fork the repo and submit a pull request.
-* 📬 **Have suggestions?** Drop your feedback via [issues](https://github.com/your-username/Clinic360/issues) or email.
+* **Found a bug?** Feel free to open an issue.
+* **Want to contribute?** Fork the repo and submit a pull request.
+* **Have suggestions?** Drop your feedback via [issues](https://github.com/your-username/Clinic360/issues) or email.
 
 > This project was created as a learning and productivity tool. We hope it helps you as much as it helped us build it!
